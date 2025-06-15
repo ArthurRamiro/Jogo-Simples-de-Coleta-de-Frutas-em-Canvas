@@ -3,9 +3,13 @@ Este projeto implementa um jogo simples onde o jogador controla uma bola branca 
 
 Funcionalidades Principais:
 🎮 Controle por teclado: Use as setas do teclado para mover a bola
+
 🍎 Geração aleatória de frutas: Nova fruta aparece em posição aleatória após coleta
+
 ⚡ Movimento fluido: Velocidade constante e suave da bola
+
 🛑 Limites do canvas: A bola não pode sair da área visível
+
 🔄 Detecção de colisão: Sistema simples de detecção de colisão círculo-círculo
 
 Como Jogar:
